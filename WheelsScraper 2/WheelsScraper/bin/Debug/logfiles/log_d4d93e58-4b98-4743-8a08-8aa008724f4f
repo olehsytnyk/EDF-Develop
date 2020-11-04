@@ -1,0 +1,4 @@
+2020-11-03 17:55:29,848 [5] INFO   [(null)] - Checking for updates
+2020-11-03 17:55:31,416 [5] INFO   [(null)] - File Databox.Libs.UniversalMapper.dll should be updated. Version on server: 1.0.0.0
+2020-11-03 17:55:31,829 [5] INFO   [(null)] - Received file Databox.Libs.UniversalMapper.dll. Size: 16384
+2020-11-03 17:55:31,838 [5] INFO   [(null)] - Update complete. Release = 82

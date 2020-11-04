@@ -1,0 +1,29 @@
+2020-11-03 18:16:10,568 [5] INFO   [(null)] - Checking for updates
+2020-11-03 18:16:10,593 [5] ERROR  [(null)] - System.UnauthorizedAccessException: Access to the path 'O:\EDF Develop\WheelsScraper 2\WheelsScraper\bin\debug\_old_1645473255_Databox.Libs.UniversalMapper.dll' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at WheelsScraper.Updater.DeleteOldFiles(String path) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Updater\Updater.cs:line 112
+2020-11-03 18:16:12,246 [5] INFO   [(null)] - Update complete. Release = 82
+2020-11-03 18:16:16,070 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2020-11-03 18:16:16,271 [1] ERROR  [(null)] - System.InvalidOperationException: There is an error in XML document (676, 29). ---> System.FormatException: The string 'False' is not a valid Boolean value.
+   at System.Xml.XmlConvert.ToBoolean(String s)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderScraperSettings.Read27_ScraperSettings(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderScraperSettings.Read28_ScraperSettings()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at WheelsScraper.ScraperSettings.ReadConfig(String configFile, Type[] additionalTypes) in C:\Projects\EDF\WheelsScraper 2\Scraper.Shared\ScraperSettings.cs:line 244
+   at WheelsScraper.Form1.DoLoadProcessorConfig(String edfFileName, String libFileName, String edfUrl) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 710
+   at WheelsScraper.Form1.LoadLocalDatafeeds() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 2304
+2020-11-03 18:16:16,274 [1] ERROR  [(null)] - . There is an error in XML document (676, 29). 
+2020-11-03 18:16:16,388 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2020-11-03 18:16:16,518 [1] INFO   [(null)] - . Server has new version for module UniversalMapper 
+2020-11-03 18:16:16,674 [1] INFO   [(null)] - Module UniversalMapper downloaded. Size 16896
+2020-11-03 18:16:17,693 [1] INFO   [(null)] - . Data feed UniversalMapper loaded 
+2020-11-03 18:16:19,622 [1] INFO   [(null)] - . Starting UniversalMapper 
+2020-11-03 18:16:19,635 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2020-11-03 18:16:19,767 [1] INFO   [(null)] - You are using latest version of UniversalMapper
+2020-11-03 18:16:21,328 [11] ERROR  [(null)] - UniversalMapper. Authorization header is invalid -- one and only one ' ' (space) required 
+2020-11-03 18:16:21,350 [11] INFO   [(null)] - UniversalMapper. Complete 
+2020-11-03 18:16:31,952 [1] INFO   [(null)] - UniversalMapper. Cancel 

@@ -1,0 +1,45 @@
+2020-11-03 18:14:08,154 [5] INFO   [(null)] - Checking for updates
+2020-11-03 18:14:09,737 [5] INFO   [(null)] - Update complete. Release = 82
+2020-11-03 18:14:13,634 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2020-11-03 18:14:13,822 [1] ERROR  [(null)] - System.InvalidOperationException: There is an error in XML document (676, 29). ---> System.FormatException: The string 'False' is not a valid Boolean value.
+   at System.Xml.XmlConvert.ToBoolean(String s)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderScraperSettings.Read27_ScraperSettings(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderScraperSettings.Read28_ScraperSettings()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at WheelsScraper.ScraperSettings.ReadConfig(String configFile, Type[] additionalTypes) in C:\Projects\EDF\WheelsScraper 2\Scraper.Shared\ScraperSettings.cs:line 244
+   at WheelsScraper.Form1.DoLoadProcessorConfig(String edfFileName, String libFileName, String edfUrl) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 710
+   at WheelsScraper.Form1.LoadLocalDatafeeds() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 2304
+2020-11-03 18:14:13,828 [1] ERROR  [(null)] - . There is an error in XML document (676, 29). 
+2020-11-03 18:14:13,943 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2020-11-03 18:14:14,097 [1] INFO   [(null)] - . Server has new version for module UniversalMapper 
+2020-11-03 18:14:14,250 [1] INFO   [(null)] - Module UniversalMapper downloaded. Size 16896
+2020-11-03 18:14:15,293 [1] INFO   [(null)] - . Data feed UniversalMapper loaded 
+2020-11-03 18:14:24,742 [1] ERROR  [(null)] - . File O:\EDF Develop\EDF Modules\TestModule1\EDF\Zieglers.dll not found 
+2020-11-03 18:14:24,760 [1] ERROR  [(null)] - System.ArgumentNullException: Value cannot be null.
+Parameter name: collection
+   at System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at WheelsScraper.Form1.OpenEDF(String fileName) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 2359
+   at WheelsScraper.Form1.LoadProcessor() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 937
+   at WheelsScraper.Form1.LoadLocalFeed() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 2089
+   at WheelsScraper.Form1.bbLoadLocal_ItemClick(Object sender, BackstageViewItemEventArgs e) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 3160
+   at DevExpress.XtraBars.Ribbon.BackstageViewButtonItem.RaiseItemClick()
+   at DevExpress.XtraBars.Ribbon.Handler.BackstageViewControlHandler.OnMouseUp(DXMouseEventArgs e)
+   at DevExpress.XtraBars.Ribbon.Handler.Office2013BackstageViewControlHandler.OnMouseUp(DXMouseEventArgs e)
+   at DevExpress.XtraBars.Ribbon.BackstageViewControl.OnMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at DevExpress.XtraBars.Ribbon.BackstageViewControl.WndProc(Message& msg)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2020-11-03 18:14:24,766 [1] ERROR  [(null)] - . Value cannot be null.
+Parameter name: collection 
+2020-11-03 18:15:36,970 [1] INFO   [(null)] - . Starting UniversalMapper 
+2020-11-03 18:15:36,985 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2020-11-03 18:15:37,144 [1] INFO   [(null)] - You are using latest version of UniversalMapper
+2020-11-03 18:15:39,456 [9] ERROR  [(null)] - UniversalMapper. Authorization header is invalid -- one and only one ' ' (space) required 
+2020-11-03 18:15:39,480 [9] INFO   [(null)] - UniversalMapper. Complete 
+2020-11-03 18:18:23,630 [1] INFO   [(null)] - UniversalMapper. Cancel 

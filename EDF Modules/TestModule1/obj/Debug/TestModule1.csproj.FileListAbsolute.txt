@@ -1,0 +1,8 @@
+E:\MyProgs\EDF dev\EDF Modules\TestModule1\obj\Debug\TestModule1.csprojResolveAssemblyReference.cache
+E:\MyProgs\EDF dev\EDF Modules\TestModule1\obj\Debug\Databox.Libs.TestModule1.ucExtSettings.resources
+E:\MyProgs\EDF dev\EDF Modules\TestModule1\obj\Debug\TestModule1.csproj.GenerateResource.Cache
+E:\MyProgs\EDF dev\EDF Modules\TestModule1\obj\Debug\TestModule1.dll.licenses
+E:\MyProgs\EDF dev\WheelsScraper 2\WheelsScraper\bin\Debug\TestModule1.dll
+E:\MyProgs\EDF dev\WheelsScraper 2\WheelsScraper\bin\Debug\TestModule1.pdb
+E:\MyProgs\EDF dev\EDF Modules\TestModule1\obj\Debug\TestModule1.dll
+E:\MyProgs\EDF dev\EDF Modules\TestModule1\obj\Debug\TestModule1.pdb

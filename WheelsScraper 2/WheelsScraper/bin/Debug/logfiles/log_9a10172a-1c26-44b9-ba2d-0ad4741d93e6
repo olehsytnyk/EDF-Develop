@@ -1,0 +1,76 @@
+2020-11-03 17:38:33,641 [5] INFO   [(null)] - Checking for updates
+2020-11-03 17:38:35,975 [5] INFO   [(null)] - File AutoMapper.dll should be updated. Version on server: 1.1.0.188
+2020-11-03 17:38:36,011 [5] INFO   [(null)] - File AWSSDK.dll should be updated. Version on server: 2.3.21.1
+2020-11-03 17:38:36,063 [5] INFO   [(null)] - File Databox.Libs.UniversalMapper.dll should be updated. Version on server: 1.0.0.0
+2020-11-03 17:38:36,071 [5] INFO   [(null)] - File Databox.Libs.UniversalMapper.pdb should be updated. Version on server: 
+2020-11-03 17:38:36,079 [5] INFO   [(null)] - File Databox.UnitConverter.dll should be updated. Version on server: 1.0.0.0
+2020-11-03 17:38:36,080 [5] INFO   [(null)] - File Databox.UnitConverter.pdb should be updated. Version on server: 
+2020-11-03 17:38:36,083 [5] INFO   [(null)] - File DataFeed.Lib.Main.dll should be updated. Version on server: 1.0.7612.14773
+2020-11-03 17:38:36,084 [5] INFO   [(null)] - File DataFeed.Lib.Main.pdb should be updated. Version on server: 
+2020-11-03 17:38:36,084 [5] INFO   [(null)] - File DataFeed.Shared.dll should be updated. Version on server: 1.0.7611.30084
+2020-11-03 17:38:36,085 [5] INFO   [(null)] - File DataFeed.Shared.pdb should be updated. Version on server: 
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.BonusSkins.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.Data.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.Office.v16.1.Core.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.Pdf.v16.1.Core.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.Pdf.v16.1.Drawing.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.Printing.v16.1.Core.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.RichEdit.v16.1.Core.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.Sparkline.v16.1.Core.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.Utils.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.XtraBars.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.XtraEditors.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.XtraGrid.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.XtraLayout.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.XtraNavBar.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.XtraPrinting.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.XtraRichEdit.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,086 [5] INFO   [(null)] - File DevExpress.XtraTreeList.v16.1.dll should be updated. Version on server: 16.1.5.0
+2020-11-03 17:38:36,091 [5] INFO   [(null)] - File EasyDataFeed.exe should be updated. Version on server: 1.40.16.14812
+2020-11-03 17:38:36,092 [5] INFO   [(null)] - File EasyDataFeed.exe.config should be updated. Version on server: 
+2020-11-03 17:38:36,107 [5] INFO   [(null)] - File EasyDataFeed.pdb should be updated. Version on server: 
+2020-11-03 17:38:36,489 [5] INFO   [(null)] - File LumenWorks.Framework.IO.pdb should be updated. Version on server: 
+2020-11-03 17:38:36,489 [5] INFO   [(null)] - File sqlceca40.dll should be updated. Version on server: 4.0.8876.1
+2020-11-03 17:38:36,489 [5] INFO   [(null)] - File sqlcecompact40.dll should be updated. Version on server: 4.0.8876.1
+2020-11-03 17:38:36,489 [5] INFO   [(null)] - File sqlceer40EN.dll should be updated. Version on server: 4.0.8876.1
+2020-11-03 17:38:36,489 [5] INFO   [(null)] - File sqlceme40.dll should be updated. Version on server: 4.0.8876.1
+2020-11-03 17:38:36,489 [5] INFO   [(null)] - File sqlceqp40.dll should be updated. Version on server: 4.0.8876.1
+2020-11-03 17:38:36,489 [5] INFO   [(null)] - File sqlcese40.dll should be updated. Version on server: 4.0.8876.1
+2020-11-03 17:38:37,724 [5] INFO   [(null)] - Received file AutoMapper.dll. Size: 355328
+2020-11-03 17:39:18,979 [5] INFO   [(null)] - Received file AWSSDK.dll. Size: 6759936
+2020-11-03 17:39:19,147 [5] INFO   [(null)] - Received file Databox.Libs.UniversalMapper.dll. Size: 16384
+2020-11-03 17:39:19,431 [5] INFO   [(null)] - Received file Databox.Libs.UniversalMapper.pdb. Size: 32256
+2020-11-03 17:39:19,614 [5] INFO   [(null)] - Received file Databox.UnitConverter.dll. Size: 6656
+2020-11-03 17:39:19,757 [5] INFO   [(null)] - Received file Databox.UnitConverter.pdb. Size: 15872
+2020-11-03 17:39:20,227 [5] INFO   [(null)] - Received file DataFeed.Lib.Main.dll. Size: 69120
+2020-11-03 17:39:21,382 [5] INFO   [(null)] - Received file DataFeed.Lib.Main.pdb. Size: 167424
+2020-11-03 17:39:21,798 [5] INFO   [(null)] - Received file DataFeed.Shared.dll. Size: 56832
+2020-11-03 17:39:23,573 [5] INFO   [(null)] - Received file DataFeed.Shared.pdb. Size: 175616
+2020-11-03 17:40:29,454 [5] INFO   [(null)] - Received file DevExpress.BonusSkins.v16.1.dll. Size: 11350824
+2020-11-03 17:40:56,762 [5] INFO   [(null)] - Received file DevExpress.Data.v16.1.dll. Size: 5365544
+2020-11-03 17:41:03,819 [5] INFO   [(null)] - Received file DevExpress.Office.v16.1.Core.dll. Size: 1139496
+2020-11-03 17:41:08,880 [5] INFO   [(null)] - Received file DevExpress.Pdf.v16.1.Core.dll. Size: 1319208
+2020-11-03 17:41:12,080 [5] INFO   [(null)] - Received file DevExpress.Pdf.v16.1.Drawing.dll. Size: 158504
+2020-11-03 17:41:35,014 [5] INFO   [(null)] - Received file DevExpress.Printing.v16.1.Core.dll. Size: 3929896
+2020-11-03 17:42:07,241 [5] INFO   [(null)] - Received file DevExpress.RichEdit.v16.1.Core.dll. Size: 6546728
+2020-11-03 17:42:07,676 [5] INFO   [(null)] - Received file DevExpress.Sparkline.v16.1.Core.dll. Size: 78632
+2020-11-03 17:42:38,811 [5] INFO   [(null)] - Received file DevExpress.Utils.v16.1.dll. Size: 8752424
+2020-11-03 17:43:01,356 [5] INFO   [(null)] - Received file DevExpress.XtraBars.v16.1.dll. Size: 5719336
+2020-11-03 17:43:29,932 [5] INFO   [(null)] - Received file DevExpress.XtraEditors.v16.1.dll. Size: 4920616
+2020-11-03 17:43:45,134 [5] INFO   [(null)] - Received file DevExpress.XtraGrid.v16.1.dll. Size: 2997544
+2020-11-03 17:43:51,586 [5] INFO   [(null)] - Received file DevExpress.XtraLayout.v16.1.dll. Size: 1834280
+2020-11-03 17:43:54,572 [5] INFO   [(null)] - Received file DevExpress.XtraNavBar.v16.1.dll. Size: 439080
+2020-11-03 17:44:00,299 [5] INFO   [(null)] - Received file DevExpress.XtraPrinting.v16.1.dll. Size: 961320
+2020-11-03 17:44:13,657 [5] INFO   [(null)] - Received file DevExpress.XtraRichEdit.v16.1.dll. Size: 2216744
+2020-11-03 17:44:19,435 [5] INFO   [(null)] - Received file DevExpress.XtraTreeList.v16.1.dll. Size: 1203496
+2020-11-03 17:44:27,898 [5] INFO   [(null)] - Received file EasyDataFeed.exe. Size: 1465344
+2020-11-03 17:44:28,039 [5] INFO   [(null)] - Received file EasyDataFeed.exe.config. Size: 3203
+2020-11-03 17:44:35,308 [5] INFO   [(null)] - Received file EasyDataFeed.pdb. Size: 1607168
+2020-11-03 17:44:35,706 [5] INFO   [(null)] - Received file LumenWorks.Framework.IO.pdb. Size: 97792
+2020-11-03 17:44:37,040 [5] INFO   [(null)] - Received file sqlceca40.dll. Size: 349920
+2020-11-03 17:44:38,037 [5] INFO   [(null)] - Received file sqlcecompact40.dll. Size: 90848
+2020-11-03 17:44:39,574 [5] INFO   [(null)] - Received file sqlceer40EN.dll. Size: 154336
+2020-11-03 17:44:40,496 [5] INFO   [(null)] - Received file sqlceme40.dll. Size: 67296
+2020-11-03 17:44:44,688 [5] INFO   [(null)] - Received file sqlceqp40.dll. Size: 642784
+2020-11-03 17:44:46,366 [5] INFO   [(null)] - Received file sqlcese40.dll. Size: 406240
+2020-11-03 17:44:46,442 [5] INFO   [(null)] - Update complete. Release = 82

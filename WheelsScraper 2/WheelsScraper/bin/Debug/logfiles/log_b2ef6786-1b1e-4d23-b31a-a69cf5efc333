@@ -1,0 +1,25 @@
+2020-11-03 17:56:06,948 [5] INFO   [(null)] - Checking for updates
+2020-11-03 17:56:08,541 [5] INFO   [(null)] - Update complete. Release = 82
+2020-11-03 17:56:12,956 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2020-11-03 17:56:13,183 [1] ERROR  [(null)] - . File O:\EDF Develop\EDF Modules\TestModule1\EDF\Zieglers.dll not found 
+2020-11-03 17:56:57,198 [1] ERROR  [(null)] - . File O:\EDF Develop\EDF Modules\TestModule1\EDF\Zieglers.dll not found 
+2020-11-03 17:56:57,215 [1] ERROR  [(null)] - System.ArgumentNullException: Value cannot be null.
+Parameter name: collection
+   at System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at WheelsScraper.Form1.OpenEDF(String fileName) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 2359
+   at WheelsScraper.Form1.LoadProcessor() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 937
+   at WheelsScraper.Form1.LoadLocalFeed() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 2089
+   at WheelsScraper.Form1.bbLoadLocal_ItemClick(Object sender, BackstageViewItemEventArgs e) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 3160
+   at DevExpress.XtraBars.Ribbon.BackstageViewButtonItem.RaiseItemClick()
+   at DevExpress.XtraBars.Ribbon.Handler.BackstageViewControlHandler.OnMouseUp(DXMouseEventArgs e)
+   at DevExpress.XtraBars.Ribbon.Handler.Office2013BackstageViewControlHandler.OnMouseUp(DXMouseEventArgs e)
+   at DevExpress.XtraBars.Ribbon.BackstageViewControl.OnMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at DevExpress.XtraBars.Ribbon.BackstageViewControl.WndProc(Message& msg)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2020-11-03 17:56:57,223 [1] ERROR  [(null)] - . Value cannot be null.
+Parameter name: collection 

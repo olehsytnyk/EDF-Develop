@@ -1,0 +1,19 @@
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF_dev.Form1.resources
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF_dev.Properties.Resources.resources
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF dev.csproj.GenerateResource.Cache
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF dev.exe
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF dev.pdb
+e:\MyProgs\EDF dev\EDF dev\EDF dev.exe
+e:\MyProgs\EDF dev\EDF dev\EDF dev.pdb
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF dev.csprojResolveAssemblyReference.cache
+e:\MyProgs\EDF dev\EDF dev\bin\Debug\EDF dev.exe
+e:\MyProgs\EDF dev\EDF dev\bin\Debug\EDF dev.pdb
+O:\EDF Develop\EDF dev\bin\Debug\EDF dev.exe
+O:\EDF Develop\EDF dev\bin\Debug\EDF dev.pdb
+O:\EDF Develop\EDF dev\obj\Debug\EDF dev.csprojAssemblyReference.cache
+O:\EDF Develop\EDF dev\obj\Debug\EDF_dev.Form1.resources
+O:\EDF Develop\EDF dev\obj\Debug\EDF_dev.Properties.Resources.resources
+O:\EDF Develop\EDF dev\obj\Debug\EDF dev.csproj.GenerateResource.cache
+O:\EDF Develop\EDF dev\obj\Debug\EDF dev.csproj.CoreCompileInputs.cache
+O:\EDF Develop\EDF dev\obj\Debug\EDF dev.exe
+O:\EDF Develop\EDF dev\obj\Debug\EDF dev.pdb

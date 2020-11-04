@@ -1,0 +1,10 @@
+O:\EDF Develop\WheelsScraper 2\WheelsScraper\bin\Debug\TestModule1.dll
+O:\EDF Develop\WheelsScraper 2\WheelsScraper\bin\Debug\TestModule1.pdb
+O:\EDF Develop\EDF Modules\TestModule1\obj\Debug\Zieglers.csprojAssemblyReference.cache
+O:\EDF Develop\EDF Modules\TestModule1\obj\Debug\Zieglers.csproj.GenerateResource.cache
+O:\EDF Develop\EDF Modules\TestModule1\obj\Debug\TestModule1.dll.licenses
+O:\EDF Develop\EDF Modules\TestModule1\obj\Debug\Zieglers.csproj.CoreCompileInputs.cache
+O:\EDF Develop\EDF Modules\TestModule1\obj\Debug\Zieglers.csproj.CopyComplete
+O:\EDF Develop\EDF Modules\TestModule1\obj\Debug\TestModule1.dll
+O:\EDF Develop\EDF Modules\TestModule1\obj\Debug\TestModule1.pdb
+O:\EDF Develop\EDF Modules\TestModule1\obj\Debug\Databox.Libs.Zieglers.ucExtSettings.resources

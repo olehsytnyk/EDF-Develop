@@ -1,0 +1,19 @@
+2020-11-03 18:25:17,569 [5] INFO   [(null)] - Checking for updates
+2020-11-03 18:25:19,153 [5] INFO   [(null)] - Update complete. Release = 82
+2020-11-03 18:25:23,037 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2020-11-03 18:25:23,229 [1] ERROR  [(null)] - System.InvalidOperationException: There is an error in XML document (676, 29). ---> System.FormatException: The string 'False' is not a valid Boolean value.
+   at System.Xml.XmlConvert.ToBoolean(String s)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderScraperSettings.Read27_ScraperSettings(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderScraperSettings.Read28_ScraperSettings()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at WheelsScraper.ScraperSettings.ReadConfig(String configFile, Type[] additionalTypes) in C:\Projects\EDF\WheelsScraper 2\Scraper.Shared\ScraperSettings.cs:line 244
+   at WheelsScraper.Form1.DoLoadProcessorConfig(String edfFileName, String libFileName, String edfUrl) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 710
+   at WheelsScraper.Form1.LoadLocalDatafeeds() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 2304
+2020-11-03 18:25:23,236 [1] ERROR  [(null)] - . There is an error in XML document (676, 29). 
+2020-11-03 18:25:23,348 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2020-11-03 18:25:23,518 [1] INFO   [(null)] - . Server has new version for module UniversalMapper 
+2020-11-03 18:25:23,693 [1] INFO   [(null)] - Module UniversalMapper downloaded. Size 16896
+2020-11-03 18:25:24,747 [1] INFO   [(null)] - . Data feed UniversalMapper loaded 
+2020-11-03 18:29:08,169 [1] INFO   [(null)] - UniversalMapper. Cancel 
